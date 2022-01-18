@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##IMAGES SET_COLORES
+
+![image](https://user-images.githubusercontent.com/56085495/149862210-1be0584b-61fb-4788-bfb6-7c2e47ff377a.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
