@@ -1,8 +1,8 @@
 table {
-    border-collapse: collapse;
-    height: 250px;
     display: flex;
     justify-content: center;
+    border-collapse: collapse;
+    height: 250px;
     align-items: center;
   }
   th,
@@ -10,7 +10,7 @@ table {
     
     width: 20px;
     height: 20px;
-    padding: 1;
+    padding: 5;
     border: 2px solid #fdfafa;
   }
   
